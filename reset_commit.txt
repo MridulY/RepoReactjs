@@ -1,0 +1,4 @@
+The revert command will create a commit that reverts the changes of the commit being targeted. 
+You can use it to revert the last commit like this:
+
+git revert <commit to revert>
